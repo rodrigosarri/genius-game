@@ -1,5 +1,5 @@
 
-# Genius Game Página inicial
+# Genius Game
 
 Esse é um projeto da releitura do jogo de memória Genius como parte do aprendizado do curso **JavaScript Game Developer** promovido pela *Digital Innovation One*
 
