@@ -13,6 +13,8 @@ executar o arquivo index.html
 
 ![alt text](https://universos.io/genius-example.gif)
 
+Para jogar o jogo Genius, você deve clicar em ok para iniciar o jogo. Após iniciar o jogo, aguarde a sequência de cores seja definida quando a cor “piscar”, após isso você deve clicar na cor correspondente. Se acertar, você irá pontuar em 1 e o jogo irá aumentar o número de cores sequenciais a cada rodada. Boa diversão =)
+
 ## Contribuindo 
 Solicitações pull são bem-vindas. Para mudanças importantes, abra um problema primeiro para discutir o que você gostaria de mudar.
 
